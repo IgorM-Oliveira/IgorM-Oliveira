@@ -5,9 +5,7 @@
 ## _Dev. Junior Font-End_
 
 
-<img align='right' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-
-<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
 <p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
 
@@ -30,19 +28,12 @@
 [<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://github.com/IgorM-Oliveira) -->
 
 ### [👩‍💻 Languages](#-languages-)
+### 🚀💻 Technologies & Tools
 
 [<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://github.com/IgorM-Oliveira)
-
-<!-- ### [🖍📐 Design](#-design-)
-
-[<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">](https://github.com/IgorM-Oliveira)
-[<img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">](https://github.com/IgorM-Oliveira)
-[<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">](https://github.com/IgorM-Oliveira) -->
-
-### [:wrench: Tools](#-frameworks-)
 
 [<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
 [<img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">](https://github.com/IgorM-Oliveira)
@@ -54,7 +45,26 @@
 [<img src = "https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
-<!-- [<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en/)
+
+<!-- ### [🖍📐 Design](#-design-)
+
+[<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">](https://github.com/IgorM-Oliveira) -->
+
+<!-- ### [:wrench: Tools](#-frameworks-)
+
+[<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
+[<img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en/)
 [<img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">](https://twitter.com/IgorMOli) -->
 
