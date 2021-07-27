@@ -13,6 +13,14 @@
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 
+### [💻 OS](#-os-)
+
+[<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://github.com/IgorM-Oliveira)
+
 ### [👩‍💻 Languages](#-languages-)
 
 [<img src = "https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">](https://github.com/IgorM-Oliveira)
