@@ -44,5 +44,6 @@
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
 
 [![](https://img.shields.io/badge/Gmail-igor.matos.oliveira.xyz%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.matos.oliveira.xyz@gmail.com)
+[![](https://img.shields.io/badge/WhatsApp-67992222332-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](phone:67992222332)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorm-oliveira&show_icons=true&theme=tokyonight)](https://github.com/IgorM-Oliveira)
