@@ -4,7 +4,11 @@
 # Igor Matos Oliveira
 ## _Dev. Junior Font-End_
 
-<img align='right' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="260">
+
+<img align='right' src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+
+<h1 align = "justify"> Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
+<p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
 
 ### [👨 Social](#-social-)
