@@ -15,7 +15,7 @@
 
 ### [💻 SO](#-os-)
 
-[<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 [<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">](https://github.com/IgorM-Oliveira)
@@ -51,6 +51,13 @@
 [<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
+
+### [👨‍💻 Office](#-office-)
+
+[<img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">](https://twitter.com/IgorMOli)
+
 
 ### [📱 Contact](#-contact-)
 
