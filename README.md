@@ -13,7 +13,7 @@
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 
-### [💻 OS](#-os-)
+### [💻 SO](#-os-)
 
 [<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">](https://github.com/IgorM-Oliveira)
