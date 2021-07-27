@@ -10,9 +10,9 @@
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/igorm_oliveita/)
 [<img src = "https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/Igor.Matos6)
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 <!-- [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white) -->
-[<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 
 <!-- ### [💻 SO](#-os-)
 
@@ -39,19 +39,20 @@
 
 ### [🚀 Frameworks](#-frameworks-)
 
-<!-- [<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en/) -->
 [<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
 [<img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">](https://twitter.com/IgorMOli)
-<!-- [<img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">](https://twitter.com/IgorMOli) -->
 [<img src = "https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/nuxt.js-00C58E?style=for-the-badge&logo=nuxtdotjs&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">](https://twitter.com/IgorMOli)
-<!-- [<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">](https://twitter.com/IgorMOli) -->
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
+<!-- [<img src = "https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">](https://nodejs.org/en/)
+[<img src = "https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">](https://twitter.com/IgorMOli) -->
+
 
 <!-- ### [👨‍💻 Office](#-office-)
 
