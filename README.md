@@ -2,7 +2,7 @@
 
 <!-- https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif -->
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, eu sou Igor Matos Oliveira</h1>
+<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, eu sou Igor Matos Oliveira</h1>
 <p align = "justify">Front-end Developer, gosto de um bom café, atualmente usando Javascript com React.</p>
 
 
