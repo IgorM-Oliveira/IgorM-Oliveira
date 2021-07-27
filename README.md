@@ -3,7 +3,12 @@
 <!-- https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif -->
 
 <h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, eu sou Igor Matos Oliveira</h1>
-<p align = "justify">Front-end Developer, gosto de um bom café, atualmente usando Javascript com React.</p>
+<p align = "justify">Dev. Junior Front-end</p>
+
+
+Atualmente trabalhando na [GENESIS](https://www.genesis.tec.br/)
+
+Estou aprendendo no momento **ReactJs**
 
 
 ### [👨 Social](#-social-)
