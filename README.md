@@ -67,3 +67,4 @@
 ### [📊 Analytics](#-analytics-)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorm-oliveira&show_icons=true&theme=tokyonight)](https://github.com/IgorM-Oliveira)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorm-oliveira&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
