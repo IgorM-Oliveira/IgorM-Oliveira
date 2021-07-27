@@ -37,7 +37,7 @@
 [<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">](https://github.com/IgorM-Oliveira) -->
 
 
-### [:wrench: tools](#-frameworks-)
+### [:wrench: Tools](#-frameworks-)
 
 [<img src = "https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white">](https://www.npmjs.com/)
 [<img src = "https://img.shields.io/badge/Yarn-2C8EBB?style=for-the-badge&logo=yarn&logoColor=white">](https://github.com/IgorM-Oliveira)
