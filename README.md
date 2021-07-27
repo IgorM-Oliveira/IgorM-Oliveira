@@ -1,5 +1,6 @@
-<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260">
+<img align='right' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="260">
 
+<!-- https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif -->
 # Igor Matos Oliveira
 ## _Dev. Junior Font-End_
 
