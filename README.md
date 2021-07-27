@@ -1,11 +1,12 @@
 <img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260">
 
 <!-- https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif -->
-# Igor Matos Oliveira
+# OLá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> Igor Matos Oliveira
 ## _Dev. Junior Font-End_
 
 
-<h1 align = "justify"> Olá <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, I am Natanael</h1>
+<h1 align = "justify"> Olá , I am Natanael</h1>
+
 <p align = "justify">Front-end Developer, Coffee lover, Javascript and SPA fan, Performance curious, @angular expert. Currently in love with RxJS and Reactive Programming.</p>
 
 
