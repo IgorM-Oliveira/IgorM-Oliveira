@@ -3,9 +3,7 @@
 <h1 align = "justify"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i am Igor Matos Oliveira</h1>
 <p align = "justify">Dev. Junior Front-end</p>
 
-I currently work at [GENESIS](https://www.genesis.tec.br/)
-
-I'm learning at the moment **ReactJs**
+I currently work at [GENESIS](https://www.genesis.tec.br/), I'm learning at the moment **ReactJs**
 
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/igor-matos-oliveira-869a18179/r)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/igorm_oliveita/)
