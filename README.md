@@ -11,6 +11,7 @@
 [<img src = "https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
+[<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 
 ### [👩‍💻 Languages](#-languages-)
 
@@ -44,6 +45,6 @@
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
 
 [![](https://img.shields.io/badge/Gmail-igor.matos.oliveira.xyz%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.matos.oliveira.xyz@gmail.com)
-[![](https://img.shields.io/badge/WhatsApp-67992222332-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](phone:67992222332)
+[![](https://img.shields.io/badge/WhatsApp-67992222332-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](phone:67992222332)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorm-oliveira&show_icons=true&theme=tokyonight)](https://github.com/IgorM-Oliveira)
