@@ -1,4 +1,4 @@
-<img align='right' src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" width="260">
+<img align='right' src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="260">
 
 <!-- https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif -->
 # Igor Matos Oliveira
@@ -14,13 +14,13 @@
 [<img src = "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 [<img src = "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white">](https://github.com/IgorM-Oliveira)
 
-### [💻 SO](#-os-)
+<!-- ### [💻 SO](#-os-)
 
 [<img src = "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">](https://www.android.com/intl/pt-BR_br/)
 [<img src = "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white">](https://github.com/IgorM-Oliveira)
-[<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">](https://github.com/IgorM-Oliveira) -->
 
 ### [👩‍💻 Languages](#-languages-)
 
@@ -30,11 +30,11 @@
 [<img src = "https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">](https://github.com/IgorM-Oliveira)
 
 
-### [🖍📐 Design](#-design-)
+<!-- ### [🖍📐 Design](#-design-)
 
 [<img src = "https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">](https://github.com/IgorM-Oliveira)
 [<img src = "https://img.shields.io/badge/Canva-%2300C4CC.svg?&style=for-the-badge&logo=Canva&logoColor=white">](https://github.com/IgorM-Oliveira)
-[<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">](https://github.com/IgorM-Oliveira)
+[<img src = "https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?style=for-the-badge&logo=adobe%20illustrator&logoColor=white">](https://github.com/IgorM-Oliveira) -->
 
 
 ### [🚀 Frameworks](#-frameworks-)
@@ -53,18 +53,17 @@
 [<img src = "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white">](https://twitter.com/IgorMOli)
 
-### [👨‍💻 Office](#-office-)
+<!-- ### [👨‍💻 Office](#-office-)
 
 [<img src = "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white">](https://twitter.com/IgorMOli)
 [<img src = "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white">](https://twitter.com/IgorMOli)
-[<img src = "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">](https://twitter.com/IgorMOli)
+[<img src = "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white">](https://twitter.com/IgorMOli) -->
 
 
 ### [📱 Contact](#-contact-)
 
 [![](https://img.shields.io/badge/Gmail-igor.matos.oliveira.xyz%40gmail.com-lightgrey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:igor.matos.oliveira.xyz@gmail.com)
-[![](https://img.shields.io/badge/WhatsApp-67992222332-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](phone:67992222332)
-
+<!-- [![](https://img.shields.io/badge/WhatsApp-67992222332-lightgrey?style=for-the-badge&logo=whatsapp&logoColor=white)](phone:67992222332) -->
 ### [📊 Analytics](#-analytics-)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorm-oliveira&include_all_commits=true&theme=radical)](https://github.com/IgorM-Oliveira)
