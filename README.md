@@ -67,4 +67,4 @@
 ### [📊 Analytics](#-analytics-)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=igorm-oliveira&include_all_commits=true&theme=radical)](https://github.com/IgorM-Oliveira)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorm-oliveira)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=igorm-oliveira&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
