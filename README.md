@@ -2,7 +2,9 @@
 <img align='right' src="https://media.giphy.com/media/3osxY9kuM2NGUfvThe/giphy.gif" width="260">
 
 <h1 align = "justify"> Hello <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">, i am Igor Matos Oliveira</h1>
+
 ## Dev. Junior Front-end
+
 <p align = "justify">Dev. Junior Front-end</p>
 
 I currently work at [GENESIS](https://www.genesis.tec.br/), I'm learning at the moment **ReactJs**
