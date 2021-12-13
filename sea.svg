@@ -12,7 +12,7 @@
   <g class="parallax">
     <use xlink:href="#gentle-wave" x="48" y="0" fill="rgba(0, 162, 255, 0.4)" />
     <use xlink:href="#gentle-wave" x="48" y="3" fill="rgba(0, 120, 189, 0.3)" />
-    <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(33, 137, 196, 0.1)" />
+    <use xlink:href="#gentle-wave" x="48" y="5" fill="rgba(207, 59, 14, 0.1)" />
     <use xlink:href="#gentle-wave" x="48" y="7" fill="rgba(54, 182, 255, 0.2)" />
   </g>
 
